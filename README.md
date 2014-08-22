@@ -4,6 +4,7 @@ DevelopingDataProducts
 Hi
 
 Please refer to the following guidelines:
+
 1) Clone the code using 'https://github.com/rolandpadilla/DevelopingDataProducts.git A1'
 
 2) Open RStudio
