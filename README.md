@@ -13,4 +13,4 @@ Please refer to the following guidelines:
 
 4) Load library(shiny), and then runApp()
 
-The application is deployed at hhttp://rolandpadilla.shinyapps.io/DevelopingDataProducts-master/.
+The application is deployed at http://rolandpadilla.shinyapps.io/DevelopingDataProducts-master/ .
